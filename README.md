@@ -1,4 +1,5 @@
 my first cool little project with my html & tailwindcss showcasing my cats and more information about cat's breed.
+the website is responsive both in iphone view or a bigger laptop view.
 learned a lot coding this project about tailwind css.
 looking forward to create more advanced projects with tailwind css
 
